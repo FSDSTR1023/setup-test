@@ -11,6 +11,11 @@ export default function Home() {
               Rubén Sahagún Benítez
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/tonebonedev"} target="_blank">
+              Toni Morales Batchelor
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
