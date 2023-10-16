@@ -11,6 +11,11 @@ export default function Home() {
               Rubén Sahagún Benítez
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/Marrodgar30"} target="_blank">
+              Maribel Rodríguez García
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
