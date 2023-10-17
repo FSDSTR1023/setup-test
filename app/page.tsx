@@ -21,6 +21,11 @@ export default function Home() {
               Juan Mencía Menéndez
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/GiampieroFC"} target="_blank">
+              Giampiero Fermini Castillo
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
