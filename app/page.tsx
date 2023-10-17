@@ -31,6 +31,10 @@ export default function Home() {
               Giampiero Fermini Castillo
             </Link>
           </li>
+          <li>
+          <Link href={"https://github.com/Sabi2207"} target="_blank">
+            Sabine Leuenberger
+          </li>
         </ul>
       </div>
     </main>
