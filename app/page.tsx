@@ -10,6 +10,11 @@ export default function Home() {
             <Link href={"https://github.com/rubenofen"} target="_blank">
               Rubén Sahagún Benítez
             </Link>
+            <li><Link href={"https://github.com/xavitobcn"} target="_blank">
+              Xavier Ortega Pérez (Xavitobcn)
+            </Link>
+            </li>
+            <link rel="stylesheet" href="" />
           </li>
         </ul>
       </div>
