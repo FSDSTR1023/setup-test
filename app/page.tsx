@@ -15,7 +15,12 @@ export default function Home() {
           <Link href={"https://github.com/22guerrabruno"} target="_blank">
               Bruno Guerra
             </Link>
-            </li>
+          </li>
+          <li>
+          <Link href={"https://github.com/lestrange41"} target="_blank">
+              Joel Montilla
+          </Link>
+          </li>
         </ul>
       </div>
     </main>
