@@ -16,6 +16,11 @@ export default function Home() {
               Bruno Guerra
             </Link>
             </li>
+            <li>
+          <Link href={"https://github.com/Angelheredia20"} target="_blank">
+              Angel Heredia
+            </Link>
+            </li>
         </ul>
       </div>
     </main>
