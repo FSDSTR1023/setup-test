@@ -43,7 +43,7 @@ export default function Home() {
           </li>
           <li>
             <Link href={"https://github.com/terefonollet"} target="_blank">
-              Teresa Fonollet
+              Teresa Fonollet Panos
             </Link>
           </li>
         </ul>
