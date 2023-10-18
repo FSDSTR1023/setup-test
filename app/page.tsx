@@ -46,6 +46,11 @@ export default function Home() {
               Teresa Fonollet Panos
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/tonebonedev"} target="_blank">
+              Toni Morales Batchelor
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
