@@ -41,6 +41,11 @@ export default function Home() {
               Noelia Ortega Moreno
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/terefonollet"} target="_blank">
+              Teresa Fonollet Panos
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
