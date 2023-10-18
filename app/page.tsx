@@ -36,6 +36,11 @@ export default function Home() {
               Maribel Rodríguez García
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/omnoelia"} target="_blank">
+              Noelia Ortega Moreno
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
