@@ -31,6 +31,11 @@ export default function Home() {
               Giampiero Fermini Castillo
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/Marrodgar30"} target="_blank">
+              Maribel Rodríguez García
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
