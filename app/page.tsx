@@ -11,6 +11,11 @@ export default function Home() {
               Rubén Sahagún Benítez
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/omnoelia"} target="_blank">
+              Noelia Ortega Moreno
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
