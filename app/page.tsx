@@ -51,6 +51,11 @@ export default function Home() {
               Toni Morales Batchelor
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/Chelique127"} target="_blank">
+              Alcedo Mendez
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
